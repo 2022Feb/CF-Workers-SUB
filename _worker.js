@@ -31,6 +31,14 @@ vless://353d84cc-e299-46c4-a027-9f648c93e316@t.mycctv.xyz:443?encryption=none&se
 vless://2e930d89-db32-4e0e-8b6b-78d012fa6d32@vless.16882099.xyz:443?encryption=none&security=tls&sni=vless.16882099.xyz&fp=randomized&type=ws&host=vless.16882099.xyz&path=%2F%3Fed%3D2048#vless.16882099.xyz
 vless://b4dddbf6-4d0f-4309-93a7-3ace05aa55ac@vless.mycctv.xyz:443?encryption=none&security=tls&sni=vless.mycctv.xyz&fp=randomized&type=ws&host=vless.mycctv.xyz&path=%2F%3Fed%3D2560#vless.mycctv.xyz
 vless://7b30aa33-bfce-47ee-ae94-fb296677e044@w.mycctv.xyz:8443?encryption=none&security=tls&type=tcp&headerType=none#w.mycctv.xyz
+vless://e5173d13-186b-464f-98b0-eb9bbd84b8b4@w.16882099.xyz:12295?encryption=none&flow=xtls-rprx-vision&security=tls&sni=w.16882099.xyz&fp=chrome&type=tcp&headerType=none&host=w.16882099.xyz#e5173d13-VLESS_TCP%2FTLS_Vision
+vless://e5173d13-186b-464f-98b0-eb9bbd84b8b4@w.16882099.xyz:23456?encryption=none&security=tls&sni=w.16882099.xyz&fp=chrome&type=ws&host=w.16882099.xyz&path=%2Fnuycws#e5173d13-VLESS_WS
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImU1MTczZDEzLVZNZXNzX1dTIiwNCiAgImFkZCI6ICJ3LjE2ODgyMDk5Lnh5eiIsDQogICJwb3J0IjogIjM4NjQ5IiwNCiAgImlkIjogImU1MTczZDEzLTE4NmItNDY0Zi05OGIwLWViOWJiZDg0YjhiNCIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidy4xNjg4MjA5OS54eXoiLA0KICAicGF0aCI6ICIveG9ndCIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJ3LjE2ODgyMDk5Lnh5eiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+trojan://e5173d13-186b-464f-98b0-eb9bbd84b8b4@w.16882099.xyz:38706?security=tls&sni=w.16882099.xyz&alpn=http%2F1.1&fp=chrome&type=tcp&headerType=none#e5173d13-Trojan_TCP_Trojan
+hysteria2://e5173d13-186b-464f-98b0-eb9bbd84b8b4@w.16882099.xyz:29106/?sni=w.16882099.xyz&alpn=h3&insecure=0#e5173d13-singbox_hysteria2
+vless://e5173d13-186b-464f-98b0-eb9bbd84b8b4@w.16882099.xyz:32682?encryption=none&flow=xtls-rprx-vision&security=reality&sni=w.16882099.xyz&fp=chrome&pbk=mzN4rdSYG_Z1od_9melhB2rdg9nO2ACbA3WvGf07cnE&sid=6ba85179e30d4fc2&type=tcp&headerType=none#e5173d13-VLESS_Reality_Vision
+vless://e5173d13-186b-464f-98b0-eb9bbd84b8b4@w.16882099.xyz:12202?encryption=none&security=reality&sni=www.asus.com&fp=chrome&pbk=mzN4rdSYG_Z1od_9melhB2rdg9nO2ACbA3WvGf07cnE&sid=6ba85179e30d4fc2&type=grpc&authority=&serviceName=grpc&mode=gun#e5173d13-VLESS_Reality_gPRC
+tuic://e5173d13-186b-464f-98b0-eb9bbd84b8b4:e5173d13-186b-464f-98b0-eb9bbd84b8b4@w.16882099.xyz:38494?sni=w.16882099.xyz&alpn=h3&congestion_control=bbr#e5173d13-singbox_tuic
 `
 
 let urls = [];
