@@ -21,13 +21,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjkxMmIzYWRkLVZNZXNzX1dTIiwNCiAgImFkZCI6
 trojan://912b3add-8165-482e-be74-e767f026d9bb@a.16882099.xyz:443?security=tls&sni=a.16882099.xyz&alpn=http%2F1.1&fp=chrome&type=tcp&headerType=none#a.16882099.xyz_Trojan
 trojan://912b3add-8165-482e-be74-e767f026d9bb@a.16882099.xyz:443?security=tls&sni=a.16882099.xyz&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=cbdptrojangrpc&mode=gun#912b3add-Trojan_gRPC
 vless://gpt@gpt.16882099.xyz:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=gpt.16882099.xyz&fp=chrome&type=tcp&headerType=none&host=gpt.16882099.xyz#gpt-VLESS_TCP%2FTLS_Vision
-vless://gpt@gpt.16882099.xyz:443?encryption=none&security=tls&sni=gpt.16882099.xyz&fp=chrome&type=ws&host=gpt.16882099.xyz&path=%2Fgptws#gpt-VLESS_WS
-vless://gpt@gpt.16882099.xyz:443?encryption=none&security=tls&sni=gpt.16882099.xyz&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=gptgrpc&mode=gun#gpt-vless_grpc
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImdwdC1WTWVzc19XUyIsDQogICJhZGQiOiAiZ3B0LjE2ODgyMDk5Lnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJncHQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImdwdC4xNjg4MjA5OS54eXoiLA0KICAicGF0aCI6ICIvZ3B0dndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImdwdC4xNjg4MjA5OS54eXoiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
-trojan://gpt@gpt.16882099.xyz:443?security=tls&sni=gpt.16882099.xyz&alpn=http%2F1.1&fp=chrome&type=tcp&headerType=none#gpt.16882099.xyz_Trojan
-trojan://gpt@gpt.16882099.xyz:443?security=tls&sni=gpt.16882099.xyz&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=gpttrojangrpc&mode=gun#gpt-Trojan_gRPC
-vless://gpt@gpt.16882099.xyz:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gpt.16882099.xyz&fp=chrome&pbk=pHXx9lNDrIxwbULaSicLz7g_kvtu3FzxbDYHKlnJQHI&sid=6ba85179e30d4fc2&type=tcp&headerType=none#gpt-vless_reality_vision
-vless://gpt@gpt.16882099.xyz:443?encryption=none&security=reality&sni=gpt.16882099.xyz&fp=chrome&pbk=pHXx9lNDrIxwbULaSicLz7g_kvtu3FzxbDYHKlnJQHI&sid=6ba85179e30d4fc2&type=grpc&authority=&serviceName=grpc&mode=gun#gpt-vless_reality_grpc
 `
 
 let urls = [];
