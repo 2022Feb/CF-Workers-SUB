@@ -12,15 +12,14 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-vless://883e994b-c150-4c61-ac0f-406bec3858f3@104.25.254.243:443?encryption=none&security=tls&sni=gpt.9910086.xyz&fp=chrome&type=ws&host=gpt.9910086.xyz&path=%2Fdrblws#CMCC-CFIP-VLESS_WS
-vless://ca228f67-cc54-40bd-838e-2a3f97da168a@104.16.7.105:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=b.9910086.xyz&fp=chrome&type=tcp&headerType=none&host=b.9910086.xyz#CMCC-CFIP-VLESS_WS-2
+vless://883e994b-c150-4c61-ac0f-406bec3858f3@141.101.115.84:443?encryption=none&security=tls&sni=gpt.9910086.xyz&fp=chrome&type=ws&host=gpt.9910086.xyz&path=%2Fdrblws#CMCC-CFIP-VLESS_WS
+vless://ca228f67-cc54-40bd-838e-2a3f97da168a@104.16.241.95:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=b.9910086.xyz&fp=chrome&type=tcp&headerType=none&host=b.9910086.xyz#CMCC-CFIP-VLESS_WS-2
 vless://883e994b-c150-4c61-ac0f-406bec3858f3@gpt.9910086.xyz:21287?encryption=none&flow=xtls-rprx-vision&security=reality&sni=s0.awsstatic.com&fp=chrome&pbk=rWonGNrxCrZ0vjdA3f-cSkGyKkaCmLahGFYnp4JRUTU&sid=6ba85179e30d4fc2&type=tcp&headerType=none#883e994b-vless_reality_vision
 vless://883e994b-c150-4c61-ac0f-406bec3858f3@gpt.9910086.xyz:21287?encryption=none&security=reality&sni=s0.awsstatic.com&fp=chrome&pbk=rWonGNrxCrZ0vjdA3f-cSkGyKkaCmLahGFYnp4JRUTU&sid=6ba85179e30d4fc2&type=grpc&authority=&serviceName=grpc&mode=gun#883e994b-vless_reality_grpc
 vless://ca228f67-cc54-40bd-838e-2a3f97da168a@b.9910086.xyz:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=b.9910086.xyz&fp=chrome&type=tcp&headerType=none&host=b.9910086.xyz#ca228f67-VLESS_TCP%2FTLS_Vision
 vless://883e994b-c150-4c61-ac0f-406bec3858f3@gpt.9910086.xyz:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=gpt.9910086.xyz&fp=chrome&type=tcp&headerType=none&host=gpt.9910086.xyz#883e994b-VLESS_TCP%2FTLS_Vision
 vless://883e994b-c150-4c61-ac0f-406bec3858f3@gpt.9910086.xyz:18710?encryption=none&security=tls&sni=gpt.9910086.xyz&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=tcp&headerType=none#883e994b-VLESS_SplitHTTP
 vless://883e994b-c150-4c61-ac0f-406bec3858f3@gpt.9910086.xyz:443?encryption=none&security=tls&sni=gpt.9910086.xyz&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=drblgrpc&mode=gun#883e994b-vless_grpc
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjg4M2U5OTRiLVZNZXNzX1dTIiwNCiAgImFkZCI6ICJncHQuOTkxMDA4Ni54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiODgzZTk5NGItYzE1MC00YzYxLWFjMGYtNDA2YmVjMzg1OGYzIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJncHQuOTkxMDA4Ni54eXoiLA0KICAicGF0aCI6ICIvZHJibHZ3cyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJncHQuOTkxMDA4Ni54eXoiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 trojan://883e994b-c150-4c61-ac0f-406bec3858f3@gpt.9910086.xyz:443?security=tls&sni=gpt.9910086.xyz&alpn=http%2F1.1&fp=chrome&type=tcp&headerType=none#gpt.9910086.xyz_Trojan
 trojan://883e994b-c150-4c61-ac0f-406bec3858f3@gpt.9910086.xyz:443?security=tls&sni=gpt.9910086.xyz&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=drbltrojangrpc&mode=gun#883e994b-Trojan_gRPC
 `
