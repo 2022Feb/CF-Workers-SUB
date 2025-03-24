@@ -12,8 +12,8 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-vless://883e994b-c150-4c61-ac0f-406bec3858f3@104.19.146.32:443?encryption=none&security=tls&sni=gpt.9910086.xyz&fp=chrome&type=ws&host=gpt.9910086.xyz&path=%2Fdrblws#CMCC-CFIP-VLESS_WS
-vless://ca228f67-cc54-40bd-838e-2a3f97da168a@104.16.251.126:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=b.9910086.xyz&fp=chrome&type=tcp&headerType=none&host=b.9910086.xyz#CMCC-CFIP-VLESS_WS-2
+vless://883e994b-c150-4c61-ac0f-406bec3858f3@141.101.114.125:443?encryption=none&security=tls&sni=gpt.9910086.xyz&fp=chrome&type=ws&host=gpt.9910086.xyz&path=%2Fdrblws#CMCC-CFIP-VLESS_WS
+vless://ca228f67-cc54-40bd-838e-2a3f97da168a@104.18.226.121:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=b.9910086.xyz&fp=chrome&type=tcp&headerType=none&host=b.9910086.xyz#CMCC-CFIP-VLESS_WS-2
 vless://ca228f67-cc54-40bd-838e-2a3f97da168a@b.9910086.xyz:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=b.9910086.xyz&fp=chrome&type=tcp&headerType=none&host=b.9910086.xyz#ca228f67-VLESS_TCP%2FTLS_Vision
 vless://883e994b-c150-4c61-ac0f-406bec3858f3@gpt.9910086.xyz:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=gpt.9910086.xyz&fp=chrome&type=tcp&headerType=none&host=gpt.9910086.xyz#883e994b-VLESS_TCP%2FTLS_Vision
 vless://883e994b-c150-4c61-ac0f-406bec3858f3@gpt.9910086.xyz:18710?encryption=none&security=tls&sni=gpt.9910086.xyz&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=tcp&headerType=none#883e994b-VLESS_SplitHTTP
