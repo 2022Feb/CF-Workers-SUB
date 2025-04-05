@@ -19,14 +19,6 @@ vless://883e994b-c150-4c61-ac0f-406bec3858f3@gpt.9910086.xyz:18710?encryption=no
 vless://883e994b-c150-4c61-ac0f-406bec3858f3@gpt.9910086.xyz:443?encryption=none&security=tls&sni=gpt.9910086.xyz&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=drblgrpc&mode=gun#883e994b-vless_grpc
 trojan://883e994b-c150-4c61-ac0f-406bec3858f3@gpt.9910086.xyz:443?security=tls&sni=gpt.9910086.xyz&alpn=http%2F1.1&fp=chrome&type=tcp&headerType=none#gpt.9910086.xyz_Trojan
 trojan://883e994b-c150-4c61-ac0f-406bec3858f3@gpt.9910086.xyz:443?security=tls&sni=gpt.9910086.xyz&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=drbltrojangrpc&mode=gun#883e994b-Trojan_gRPC
-vless://5bbc4abf-34f3-4a1d-8a01-d1420cc46e41@tv.9910086.xyz:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=tv.9910086.xyz&fp=chrome&type=tcp&headerType=none&host=tv.9910086.xyz#tv-VLESS_TCP%2FTLS_Vision
-vless://5bbc4abf-34f3-4a1d-8a01-d1420cc46e41@141.101.115.66:443?encryption=none&security=tls&sni=tv.9910086.xyz&fp=chrome&type=ws&host=tv.9910086.xyz&path=%2Ftvws#tv-VLESS_WS
-vless://5bbc4abf-34f3-4a1d-8a01-d1420cc46e41@213.35.102.225:12001?encryption=none&security=reality&sni=swcdn.apple.com&fp=chrome&pbk=s9AMYREaRkFHWxpm8MjaqZrxEV2EvwA_QloI5teQVEY&sid=6ba85179e30d4fc2&type=xhttp&host=swcdn.apple.com&path=tvxHTTP#tv-VLESS_XHTTP
-vless://5bbc4abf-34f3-4a1d-8a01-d1420cc46e41@tv.9910086.xyz:443?encryption=none&security=tls&sni=tv.9910086.xyz&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=tvgrpc&mode=gun#tv-vless_grpc
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInR2LVZNZXNzX1dTIiwNCiAgImFkZCI6ICJ0di45OTEwMDg2Lnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI1YmJjNGFiZi0zNGYzLTRhMWQtOGEwMS1kMTQyMGNjNDZlNDEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInR2Ljk5MTAwODYueHl6IiwNCiAgInBhdGgiOiAiL3R2dndzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogInR2Ljk5MTAwODYueHl6IiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=
-trojan://5bbc4abf-34f3-4a1d-8a01-d1420cc46e41@tv.9910086.xyz:443?security=tls&sni=tv.9910086.xyz&alpn=http%2F1.1&fp=chrome&type=tcp&headerType=none#tv.9910086.xyz_Trojan
-vless://5bbc4abf-34f3-4a1d-8a01-d1420cc46e41@213.35.102.225:23550?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lol.secure.dyn.riotcdn.net&fp=chrome&pbk=s9AMYREaRkFHWxpm8MjaqZrxEV2EvwA_QloI5teQVEY&sid=6ba85179e30d4fc2&type=tcp&headerType=none#tv-vless_reality_vision
-vless://5bbc4abf-34f3-4a1d-8a01-d1420cc46e41@213.35.102.225:23550?encryption=none&security=reality&sni=lol.secure.dyn.riotcdn.net&fp=chrome&pbk=s9AMYREaRkFHWxpm8MjaqZrxEV2EvwA_QloI5teQVEY&sid=6ba85179e30d4fc2&type=grpc&authority=&serviceName=grpc&mode=gun#tv-vless_reality_grpc
 `
 
 let urls = [];
