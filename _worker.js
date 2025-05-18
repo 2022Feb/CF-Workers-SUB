@@ -19,7 +19,10 @@ vless://883e994b-c150-4c61-ac0f-406bec3858f3@gpt.9910086.xyz:18710?encryption=no
 vless://883e994b-c150-4c61-ac0f-406bec3858f3@gpt.9910086.xyz:443?encryption=none&security=tls&sni=gpt.9910086.xyz&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=drblgrpc&mode=gun#883e994b-vless_grpc
 trojan://883e994b-c150-4c61-ac0f-406bec3858f3@gpt.9910086.xyz:443?security=tls&sni=gpt.9910086.xyz&alpn=http%2F1.1&fp=chrome&type=tcp&headerType=none#gpt.9910086.xyz_Trojan
 trojan://883e994b-c150-4c61-ac0f-406bec3858f3@gpt.9910086.xyz:443?security=tls&sni=gpt.9910086.xyz&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=drbltrojangrpc&mode=gun#883e994b-Trojan_gRPC
-hysteria2://IQcU5YTMgA@151.145.75.47:55700?&insecure=1#hy2-55700
+hysteria2://IQcU5YTMgA@151.145.75.47:55700?&insecure=1#hy2-55700-jp
+hysteria2://UfW6PcmMja@129.154.212.74:41255?&insecure=1&obfs=salamander&obfs-password=adf125%40gdoed!!#hy2-41255-kr
+hysteria2://UfW6PcmMja@129.154.212.74:13006?&insecure=1&obfs=salamander&obfs-password=1246sfs%23%23DE#hy2-13006-kr
+hysteria2://UfW6PcmMja@129.154.212.74:24941?&insecure=1&obfs=salamander&obfs-password=12552ddddg%23%23fFD#hy2-24941-kr
 `
 
 let urls = [];
