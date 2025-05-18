@@ -15,10 +15,6 @@ let MainData = `
 vless://883e994b-c150-4c61-ac0f-406bec3858f3@104.16.4.16:443?encryption=none&security=tls&sni=gpt.9910086.xyz&fp=chrome&type=ws&host=gpt.9910086.xyz&path=%2Fdrblws#CMCC-CFIP-VLESS_WS
 vless://ca228f67-cc54-40bd-838e-2a3f97da168a@b.9910086.xyz:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=b.9910086.xyz&fp=chrome&type=tcp&headerType=none&host=b.9910086.xyz#ca228f67-VLESS_TCP%2FTLS_Vision
 vless://883e994b-c150-4c61-ac0f-406bec3858f3@gpt.9910086.xyz:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=gpt.9910086.xyz&fp=chrome&type=tcp&headerType=none&host=gpt.9910086.xyz#883e994b-VLESS_TCP%2FTLS_Vision
-vless://883e994b-c150-4c61-ac0f-406bec3858f3@gpt.9910086.xyz:18710?encryption=none&security=tls&sni=gpt.9910086.xyz&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=tcp&headerType=none#883e994b-VLESS_SplitHTTP
-vless://883e994b-c150-4c61-ac0f-406bec3858f3@gpt.9910086.xyz:443?encryption=none&security=tls&sni=gpt.9910086.xyz&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=drblgrpc&mode=gun#883e994b-vless_grpc
-trojan://883e994b-c150-4c61-ac0f-406bec3858f3@gpt.9910086.xyz:443?security=tls&sni=gpt.9910086.xyz&alpn=http%2F1.1&fp=chrome&type=tcp&headerType=none#gpt.9910086.xyz_Trojan
-trojan://883e994b-c150-4c61-ac0f-406bec3858f3@gpt.9910086.xyz:443?security=tls&sni=gpt.9910086.xyz&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=drbltrojangrpc&mode=gun#883e994b-Trojan_gRPC
 hysteria2://IQcU5YTMgA@151.145.75.47:55700?&insecure=1#hy2-55700-jp
 hysteria2://UfW6PcmMja@129.154.212.74:41255?&insecure=1&obfs=salamander&obfs-password=adf125%40gdoed!!#hy2-41255-kr
 hysteria2://UfW6PcmMja@129.154.212.74:13006?&insecure=1&obfs=salamander&obfs-password=1246sfs%23%23DE#hy2-13006-kr
