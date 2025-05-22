@@ -15,10 +15,12 @@ let MainData = `
 vless://883e994b-c150-4c61-ac0f-406bec3858f3@104.16.4.16:443?encryption=none&security=tls&sni=gpt.9910086.xyz&fp=chrome&type=ws&host=gpt.9910086.xyz&path=%2Fdrblws#CMCC-CFIP-VLESS_WS
 vless://ca228f67-cc54-40bd-838e-2a3f97da168a@b.9910086.xyz:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=b.9910086.xyz&fp=chrome&type=tcp&headerType=none&host=b.9910086.xyz#ca228f67-VLESS_TCP%2FTLS_Vision
 vless://883e994b-c150-4c61-ac0f-406bec3858f3@gpt.9910086.xyz:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=gpt.9910086.xyz&fp=chrome&type=tcp&headerType=none&host=gpt.9910086.xyz#883e994b-VLESS_TCP%2FTLS_Vision
-hysteria2://IQcU5YTMgA@151.145.75.47:55700?&insecure=1#hy2-55700-jp
 hysteria2://UfW6PcmMja@129.154.212.74:41255?&insecure=1&obfs=salamander&obfs-password=adf125%40gdoed!!#hy2-41255-kr
 hysteria2://UfW6PcmMja@129.154.212.74:13006?&insecure=1&obfs=salamander&obfs-password=1246sfs%23%23DE#hy2-13006-kr
 hysteria2://UfW6PcmMja@129.154.212.74:24941?&insecure=1&obfs=salamander&obfs-password=12552ddddg%23%23fFD#hy2-24941-kr
+hysteria2://ZGHgtipeGP@141.147.180.215:18274?fastopen=0&insecure=1&obfs=salamander&obfs-password=adfad21DKD%24%23#hysteria2-18274-jp
+hysteria2://ZGHgtipeGP@141.147.180.215:17631?fastopen=0&insecure=1&obfs=salamander&obfs-password=adfad32%40%23F#hysteria2-17631-jp
+hysteria2://ZGHgtipeGP@141.147.180.215:45885?fastopen=0&insecure=1&obfs=salamander&obfs-password=adddgr%40%23GD#hysteria2-45885-jp
 `
 
 let urls = [];
