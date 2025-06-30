@@ -13,9 +13,9 @@ let timestamp = 4102329600000;//2099-12-31
 //节点链接 + 订阅链接
 let MainData = `
 vless://ca228f67-cc54-40bd-838e-2a3f97da168a@b.9910086.xyz:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=b.9910086.xyz&fp=chrome&type=tcp&headerType=none&host=b.9910086.xyz#ca228f67-VLESS_TCP%2FTLS_Vision
-hysteria2://ZGHgtipeGP@141.147.180.215:18274?fastopen=0&insecure=1&obfs=salamander&obfs-password=adfad21DKD%24%23#hysteria2-18274-jp
-hysteria2://ZGHgtipeGP@141.147.180.215:17631?fastopen=0&insecure=1&obfs=salamander&obfs-password=adfad32%40%23F#hysteria2-17631-jp
-hysteria2://ZGHgtipeGP@141.147.180.215:45885?fastopen=0&insecure=1&obfs=salamander&obfs-password=adddgr%40%23GD#hysteria2-45885-jp
+hysteria2://QX9AnmRg2K@140.245.91.100:32173?obfs=salamander&obfs-password=dadjfdf25dadf&insecure=1#hysteria2-32173
+hysteria2://QX9AnmRg2K@140.245.91.100:21944?obfs=salamander&obfs-password=adfad2ad5f4a5w&insecure=1#hysteria2-21944
+hysteria2://QX9AnmRg2K@140.245.91.100:34729?obfs=salamander&obfs-password=adedfdf256ad2e&insecure=1#hysteria2-34729
 `
 
 let urls = [];
