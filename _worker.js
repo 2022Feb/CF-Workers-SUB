@@ -13,7 +13,9 @@ let timestamp = 4102329600000;//2099-12-31
 //节点链接 + 订阅链接
 let MainData = `
 vless://ca228f67-cc54-40bd-838e-2a3f97da168a@b.9910086.xyz:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=b.9910086.xyz&fp=chrome&type=tcp&headerType=none&host=b.9910086.xyz#ca228f67-VLESS_TCP%2FTLS_Vision
-hysteria2://b2573428614e7385e411240d980a5ee6@b.9910086.xyz:2053/?sni=b.9910086.xyz&insecure=0#b.9910086.xyz-HY2
+hysteria2://x49HTfQnKu@130.162.144.183:12345?security=tls&insecure=1&obfs=salamander&obfs-password=adfjkwfj%2A%40%26%26%40%230d&fastopen=0#hysteria2-12345
+hysteria2://x49HTfQnKu@130.162.144.183:23456?security=tls&insecure=1&obfs=salamander&obfs-password=IISDUS%2AS%26SDh&fastopen=0#hysteria2-23456
+hysteria2://x49HTfQnKu@130.162.144.183:34567?security=tls&insecure=1&obfs=salamander&obfs-password=ISOS%28%2A%26%5E%5E%25G&fastopen=0#hysteria2-34567
 vless://4785c40b-c5c1-45e9-b396-490a7eb14f94@161.118.137.177:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=pb_00qpLyylBUr7pajSgwDy6u72LSaaSSigKz8rH9kw&sid=0123456789abcdef&type=tcp&headerType=none#161.118.137.177-VLESS-REALITY
 hysteria2://Hy2Proxy%402099%21SecurePass@161.118.137.177:443/?sni=docker.20991234.xyz&insecure=1#161.118.137.177-HY2
 `
